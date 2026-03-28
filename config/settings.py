@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-c%0ly2+9*#q-h()6824qq5z9a2q#dvr6y29t&s6q&ntijglyye
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["three60businessconsulting-backend-1.onrender.com"]
+ALLOWED_HOSTS = ["three60businessconsulting-backend-1.onrender.com","https://360businessconsulting.netlify.app/"]
 
 # Application definition
 
